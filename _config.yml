@@ -1,0 +1,28 @@
+name: CFCHALKBOARD
+favicon: null
+layout_spectrum: 0.9409345511812717
+typography_spectrum: 0.7482958785258234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7840864092577249
+  lightness: 0.5723055810667574
+  saturation: 0.786027132999152
+  rhythmicContrast: 0.212677211035043
+purpose: []
