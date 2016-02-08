@@ -2,6 +2,7 @@ name: CFCHALKBOARD
 favicon: null
 layout_spectrum: 0.9409345511812717
 typography_spectrum: 0.7482958785258234
+title: WELCOME TO CFCHALKBOARD
 cta:
   domain: null
   bucket: null
